@@ -1,0 +1,7 @@
+.box-container{
+  text-align: center;
+  border:5px solid rgba(0, 0, 0, 0.521);
+  width:26%;
+  margin: 0px 80px 10px 0px;
+  background: rgba(238, 255, 0, 0.521);
+}
